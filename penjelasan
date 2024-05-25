@@ -1,0 +1,6 @@
+NOTE : Setiap node memiliki nilai yang lebih kecil dari node induknya(sisi kiri), dan untuk 
+nilai yang lebih besar dari node induknya berada di sisi kanan.
+
+kesimpulannya :
+E lebih kecil dari F, H lebih besar dari F, D lebih kecil dari E, C lebih kecil dari D, 
+B lebih kecil dari C, G lebih kecil dari H, sedangkan K lebih besar dari H, dan J lebih kecil dari K.
